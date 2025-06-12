@@ -2,9 +2,9 @@
 
 ## ✅ To-Do
 
-- [ ✅ ] Add dark mode toggle
-- [ ✅ ] Improve mobile responsiveness
-- [ ✅ ] Optimize loading performance
+- [ ] Add dark mode toggle
+- [ ] Improve mobile responsiveness
+- [ ] Optimize loading performance
 
 ## 🧠 Ideas
 
