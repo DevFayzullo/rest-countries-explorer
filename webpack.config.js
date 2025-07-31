@@ -12,7 +12,7 @@ module.exports = {
   },
   // output
   output: {
-    path: path.resolve(__dirname, "public"),
+    path: path.resolve(__dirname, "dist"),
     filename: "[name][contenthash].js",
     clean: true,
   },
@@ -31,7 +31,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js$/, // faqat js fayllar
+        test: /\.js$/, 
         exclude: /node_modules/,
         use: {
           loader: "babel-loader",
@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         test: /\.css$/i,
-        use: [MiniCssExtractPlugin.loader, "css-loader"], // CSS fayllar uchun
+        use: [MiniCssExtractPlugin.loader, "css-loader"], 
       },
     ],
   },
