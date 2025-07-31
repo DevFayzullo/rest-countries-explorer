@@ -15,7 +15,9 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     filename: "[name][contenthash].js",
     clean: true,
+    publicPath: "./",
   },
+
   // devServer
   devServer: {
     static: {
@@ -31,7 +33,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js$/, 
+        test: /\.js$/,
         exclude: /node_modules/,
         use: {
           loader: "babel-loader",
@@ -42,7 +44,7 @@ module.exports = {
       },
       {
         test: /\.css$/i,
-        use: [MiniCssExtractPlugin.loader, "css-loader"], 
+        use: [MiniCssExtractPlugin.loader, "css-loader"],
       },
     ],
   },
