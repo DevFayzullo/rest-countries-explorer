@@ -9,9 +9,14 @@ This is a JavaScript web application that displays detailed information about co
 - Responsive design
 - Built with Webpack and Babel
 
+## 📸 Preview
+
+![screenshot](./src/images/screenshot.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js and npm installed
 
 ### Installation
@@ -34,6 +39,10 @@ npm start
 npm run build
 ```
 
+## 🌐 Live Demo
+
+👉 [Click here to view the live demo](https://devfayzullo.github.io/rest-countries-explorer/)
+
 ## 🛠️ Tech Stack
 
 - JavaScript (ES6+)
@@ -41,21 +50,12 @@ npm run build
 - Babel
 - HTML & CSS
 
-## 📁 Folder Structure
-
-```
-src/
-  └── js/
-      └── main.js
-      └── about.js
-public/
-  └── index.html
-  └── about.html
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
+
 🔧 Developed by **DevFayzullo**
+
+Happy coding! 🚀
