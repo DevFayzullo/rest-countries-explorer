@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DevFayzullo.github.io/rest-countries-explorer",
+  "homepage": "https://devfayzullo.github.io/rest-countries-explorer/",
   "scripts": {
     "start": "webpack serve",
     "build": "webpack --mode production",
