@@ -1,5 +1,7 @@
 # Rest Countries Explorer
 
+[🇬🇧 English README](./README.md) • [🇰🇷 한국어 README](./README.ko.md) • [🔗 Live Demo](https://devfayzullo-countries.netlify.app/)
+
 Dunyo davlatlari haqidagi ma'lumotlarni o'rganish uchun **interaktiv** va **responsiv** veb-ilova.  
 **JavaScript (ES6+)** yordamida yaratilgan, **Webpack + Babel** orqali yig'ilgan va **CSS3** bilan bezatilgan — toza, qulay va mobilga mos tajriba taqdim etadi.
 
