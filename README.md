@@ -1,6 +1,6 @@
 # Rest Countries Explorer
 
-[🇰🇷 한국어 README](./README.ko.md) • [🇺🇿 O‘zbekcha README](./README.uz.md) • [🔗 Live Demo](https://devfayzullo-countries.netlify.app/)
+[🇰🇷 한국어 README](./README.ko.md) • [🇺🇿 O‘zbekcha README](./README.uz.md)
 
 An **interactive** and **responsive** web app to explore world countries' data.  
 Built with **JavaScript (ES6+)**, bundled via **Webpack + Babel**, and styled using **CSS3** — this project offers a clean, accessible, and mobile-friendly experience.
