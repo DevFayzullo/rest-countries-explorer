@@ -1,13 +1,16 @@
 # Rest Countries Explorer
 
-This is a JavaScript web application that displays detailed information about countries using the [REST Countries API](https://restcountries.com/).
+An **interactive** and **responsive** web app to explore world countries' data.  
+Built with **JavaScript (ES6+)**, bundled via **Webpack + Babel**, and styled using **CSS3** — this project offers a clean, accessible, and mobile-friendly experience.
 
-## 🌍 Features
+## 🧠 Features
 
-- View country information including flag, name, capital, region, and population
+- Search countries by name
 - Filter countries by region
-- Responsive design
-- Built with Webpack and Babel
+- View detailed country information (flag, population, capital, etc.)
+- Responsive design for mobile and desktop
+- Data fetched from **REST Countries API**
+- Built with **Webpack** for optimized bundling
 
 ## 📸 Preview
 
@@ -17,12 +20,12 @@ This is a JavaScript web application that displays detailed information about co
 
 ### Prerequisites
 
-- Node.js and npm installed
+- **Node.js** and **npm** installed on your machine
 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/rest-countries-explorer.git
+git clone https://github.com/DevFayzullo/rest-countries-explorer.git
 cd rest-countries-explorer
 npm install
 ```
@@ -30,7 +33,7 @@ npm install
 ### Run in Development Mode
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### Build for Production
@@ -41,21 +44,24 @@ npm run build
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live demo](https://devfayzullo.github.io/rest-countries-explorer/)
+👉 [Click here to view the live demo](https://devfayzullo-countries.netlify.app/)
 
 ## 🛠️ Tech Stack
 
-- JavaScript (ES6+)
-- Webpack
-- Babel
-- HTML & CSS
+- **JavaScript (ES6+)**
+- **Webpack + Babel**
+- **CSS3** (Flexbox, Grid)
+- **REST Countries API**
+- **Netlify** (for deployment)
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-🔧 Developed by **DevFayzullo**
+📌 Developed by **DevFayzullo**
 
-Happy coding! 🚀
+> “Knowledge is power. Information is liberating.” – Kofi Annan
+
+Happy coding! 🌍
